@@ -51,7 +51,7 @@
 package obie
 
 // Version is the current module version.
-const Version = "1.0.2"
+const Version = "1.0.3"
 
 // SpecVersion is the OBIE Read/Write API specification version targeted by
 // this module.
